@@ -2,6 +2,7 @@
 
 ```diff
 
+ .../de/danoeh/antennapod/fragment/ItemDescriptionFragment.java  | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/app/src/main/java/de/danoeh/antennapod/fragment/ItemDescriptionFragment.java b/app/src/main/java/de/danoeh/antennapod/fragment/ItemDescriptionFragment.java
